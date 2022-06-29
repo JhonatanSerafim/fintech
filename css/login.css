@@ -45,13 +45,15 @@
 
 .login-form-wrapper button {
     width: 100%;
-    background: linear-gradient(132deg, #6E8EFB ,#A777E3);
+    background-color: rgb(255, 193, 11);
+    /* background: linear-gradient(132deg, #6E8EFB ,#A777E3); */
     border: none;
     color: #FFF
 }
 
 .login-form-wrapper button:hover {
     color: #FFF;
+    background-color: rgb(255, 193, 11);
     transform: scale(1.05);
     transition: .2s;
 }
